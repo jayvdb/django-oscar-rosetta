@@ -10,7 +10,7 @@ except ImportError:
 
 
 setup(name='django-oscar-rosetta',
-      version=0.01,
+      version='0.1',
       url='https://github.com/scaryclam/django-oscar-rosetta',
       author="Becky Lewis",
       author_email="github@scaryclam.co.uk",
