@@ -1,5 +1,3 @@
-from rosetta import urls
-
 from django.conf.urls import patterns, url
 
 from oscar.core.application import Application

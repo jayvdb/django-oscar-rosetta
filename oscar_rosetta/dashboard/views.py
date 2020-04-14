@@ -1,7 +1,6 @@
 from rosetta import views
 
 from django.views.generic import View
-from django.http import HttpResponse
 
 
 class IndexView(View):
