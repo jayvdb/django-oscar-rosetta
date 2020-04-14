@@ -32,7 +32,7 @@ setup(name='django-oscar-rosetta',
           'Programming Language :: Python',
           'Topic :: Other/Nonlisted Topic'],
       install_requires=[
-          'django-rosetta>=0.7',
+          'django-rosetta>=0.7,<0.8',
       ],
       )
 
